@@ -13,6 +13,7 @@
     "node-red-contrib-azure-sql": "*",
     "node-red-node-sqlite": "*",
     "node-red-contrib-azureiothubnode": "*",
+    "node-red-contrib-mqtt-broker": "*",
     "express": "*"
   }
 }
