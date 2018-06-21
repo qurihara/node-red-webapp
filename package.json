@@ -15,6 +15,7 @@
     "node-red-node-sqlite": "*",
     "node-red-contrib-azureiothubnode": "*",
     "node-red-contrib-mqtt-broker": "*",
+    "node-red-contrib-game_controllerizer": "*",
     "express": "*"
   }
 }
